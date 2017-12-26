@@ -9,8 +9,8 @@
             "email": "liximing2011@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
+    "version": 3.0,
     "autoload":{
         "psr-4": {"xiaohigh\\":"src"}
     }
