@@ -1,0 +1,17 @@
+{
+    "name": "xiaohigh/test",
+    "description": "thisi sa tes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaohigh",
+            "email": "liximing2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {"xiaohigh\\":"src"}
+    }
+}
